@@ -3,21 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunbtech9682&label=Profile%20views&color=0e75b6&style=flat" alt="varunbtech9682" /> </p>
 
-- 🌱 I’m currently learning **Python Programming, HTML, CSS, JavaScript, Oracle Database**
+- Skills:  **Python, Django, HTML, CSS, JavaScript, Oracle Database, ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/varunbtech9682](https://github.com/varunbtech9682)
+- All of my projects are available at [https://github.com/varunbtech9682](https://github.com/varunbtech9682)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/varun-b-13082k](https://www.linkedin.com/in/varun-b-13082k)
-
-- 💬 Ask me about **Python Programming, HTML, CSS, JavaScript**
-
-- 📫 How to reach me **varunbtech9682@gmail.com**
+- Reach me **varunbtech9682@gmail.com**
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> 
 
 <div class="tenor-gif-embed" data-postid="19019116" data-share-method="host" data-aspect-ratio="1.59204" data-width="100%"><a href="https://tenor.com/view/programmer-gif-19019116">Programmer GIF</a>from <a href="https://tenor.com/search/programmer-gifs">Programmer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-- ⚡ Fun fact **I used to design in Adobe Draw professionally and even done paid design works to my colleagues when I was in college**
+- **I gained professional experience using Adobe Draw, where I successfully executed commissioned design projects for colleagues, establishing a reputation for my exceptional design skills.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
