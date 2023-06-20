@@ -8,10 +8,7 @@
 - All of my projects are available at [https://github.com/varunbtech9682](https://github.com/varunbtech9682)
 
 - Reach me **varunbtech9682@gmail.com**
-
-
-
- <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> 
 
 - **I gained professional experience using Adobe Draw, where I successfully executed commissioned design projects for colleagues, establishing a reputation for my exceptional design skills.**
 
