@@ -9,7 +9,6 @@
 
 - Reach me **varunbtech9682@gmail.com**
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/dPb00fD/output-onlinegiftools.gif" alt="output-onlinegiftools" border="0"></a>
-- 
 - **I gained professional experience using Adobe Draw, where I successfully executed commissioned design projects for colleagues, establishing a reputation for my exceptional design skills.**
 
 ### Blogs posts
