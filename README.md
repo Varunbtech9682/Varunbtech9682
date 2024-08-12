@@ -8,7 +8,7 @@
 - All of my projects are available at [https://github.com/varunbtech9682](https://github.com/varunbtech9682)
 
 - Reach me **varunbtech9682@gmail.com**
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/dPb00fD/output-onlinegiftools.gif" alt="output-onlinegiftools" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://c.tenor.com/OKMiJjqXkMcAAAAC/tenor.gif" alt="output-onlinegiftools" border="0"></a>
 - **I gained professional experience using Adobe Draw, where I successfully executed commissioned design projects for colleagues, establishing a reputation for my exceptional design skills.**
 
 ### Blogs posts
